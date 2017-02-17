@@ -1,4 +1,4 @@
-# FixNode
+# FixNode (Deprecated)
 Random fixes for TechNodeFirmaCraft
 
 1) Mekanism Solar Evaporator takes Saltwater not deionized water
@@ -8,3 +8,5 @@ Random fixes for TechNodeFirmaCraft
 3) Forestry still will distill fresh and salt water into deionized water
 
 4) IE External heater will heat BP alloy furnace
+
+Note: This mod is deprecated and doesn't work with the current versions of TNFC
